@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCF", "..\..\..\OneDrive\Máy tính\C#\20N99\DemoCF\DemoCF.csproj", "{980DFCCC-225B-4F68-8C77-FE63F6836CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{980DFCCC-225B-4F68-8C77-FE63F6836CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980DFCCC-225B-4F68-8C77-FE63F6836CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980DFCCC-225B-4F68-8C77-FE63F6836CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980DFCCC-225B-4F68-8C77-FE63F6836CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08E2C7A-B795-452B-A474-E4BA8178B2DC}
+	EndGlobalSection
+EndGlobal
